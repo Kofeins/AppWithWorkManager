@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Mars">What is the weather like on Mars</string>
+    <string name="get">Сheck with Mars Rover</string>
+    <string name="cat">New Cat Period</string>
+    <string name="catSwitch">Cat Period</string>
+</resources>
